@@ -1,5 +1,5 @@
 ---
-title: "AI enabling every employee, not just developers."
+title: "AI for every employee, not just developers."
 image: logo.png
 about:
   template: jolla
