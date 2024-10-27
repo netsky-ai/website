@@ -1,6 +1,6 @@
 ---
-title: "NetSky AI"
-image: dkdc.png
+title: "AI enabling every employee, not just developers."
+image: logo.png
 about:
   template: jolla
   links:
@@ -9,6 +9,6 @@ about:
       href: https://github.com/netsky-ai
 ---
 
-***AI enabling every employee, not just developers.***
+***Email-powered assistants for your entire workforce.***
 
 Coming soon!

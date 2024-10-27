@@ -5,19 +5,19 @@ project:
 # website
 website:
   # basics
-  title: "NetSky AI"
+  title: "NetSky"
   site-url: https://netsky.ai
   repo-url: https://github.com/netsky-ai/website
   description: "AI enabling every employee, not just developers."
-  favicon: dkdc.png
+  favicon: logo.png
 
   # options
   reader-mode: false
   back-to-top-navigation: true
   open-graph:
-    image: dkdc.png
+    image: logo.png
   twitter-card:
-    image: dkdc.png
+    image: logo.png
 
 
   # search
@@ -27,17 +27,23 @@ website:
 
   # navbar
   navbar:
+    logo: logo.png
+    background: "#f17f16"
     left:
-      - text: "about"
-        href: about.qmd
+      - text: "Demo"
+        href: demo.qmd
+      - text: "Services"
+        href: services.qmd
     right:
-      - text: "blog"
+      - text: "About"
+        href: about.qmd
+      - text: "Blog"
         href: posts.qmd
 
   # footer
   page-footer:
     border: false
-    center: "NetSky AI"
+    center: "NetSky"
     right:
       - icon: github
         href: https://github.com/netsky-ai
