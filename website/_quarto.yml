@@ -6,15 +6,34 @@ project:
 website:
   # basics
   title: "NetSky AI"
-  description: "AI enabling ***every*** employee, not just developers."
+  site-url: https://netsky.ai
+  repo-url: https://github.com/netsky-ai/website
+  description: "AI enabling every employee, not just developers."
   favicon: logo.png
-  search: false
 
   # options
   reader-mode: false
-  twitter-card: true
   back-to-top-navigation: true
-  repo-url: https://github.com/netsky-ai/website
+  open-graph:
+    image: logo.png
+  twitter-card:
+    image: logo.png
+
+
+  # search
+  search:
+    location: navbar
+    type: overlay
+
+  # navbar
+  navbar:
+    background: "#c77218"
+    left:
+      - text: "about"
+        href: about.qmd
+    right:
+      - text: "blog"
+        href: posts.qmd
 
   # footer
   page-footer:
@@ -27,5 +46,5 @@ website:
 # theme
 format:
   html:
-    theme: slate
+    theme: solar
     toc: true
