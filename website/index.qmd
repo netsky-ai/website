@@ -1,14 +1,23 @@
 ---
-title: "AI for every employee, not just developers."
+title: "AI digital assistants for every employee!"
 image: logo.png
 about:
   template: jolla
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/netsky-ai
+    - icon: pc-display-horizontal
+      text: Demo
+      href: demo.qmd
+    - icon: server
+      text: Services
+      href: services.qmd
+    - icon: file-person
+      text: About
+      href: about.qmd
+    - icon: substack
+      text: Blog
+      href: posts.qmd
 ---
 
-***Email-powered assistants for your entire workforce.***
+***Not just developers. Code-based assistance increasing output of your entire workforce, via email.***
 
 Coming soon!

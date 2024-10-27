@@ -1,0 +1,12 @@
+---
+title: "Launching NetSky AI"
+author: "Cody Peterson & Dylan Jones"
+date: "2024-10-01"
+draft: true
+categories:
+    - company
+---
+
+***Productive AI for many.***
+
+"AI"...
