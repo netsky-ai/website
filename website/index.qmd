@@ -18,6 +18,6 @@ about:
       href: posts.qmd
 ---
 
-***Not just developers. Code-based assistance increasing output of your entire workforce, via email.***
+***Not just developers. Code-based assistance increasing productivity of your entire workforce, via email.***
 
 Coming soon!
