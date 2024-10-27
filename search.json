@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI for every employee, not just developers.",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
     "section": "",
-    "text": "Email-powered assistants for your entire workforce.\nComing soon!\n\n\n Back to top"
-  },
-  {
-    "objectID": "demo.html",
-    "href": "demo.html",
-    "title": "Demo",
-    "section": "",
-    "text": "Demo\nVideo demo coming soon! You can email sales for a demo in the meantime.\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
-    "section": "",
-    "text": "Services\nComing soon! You can email sales in the meantime.\n\n\n\n\n Back to top"
+    "text": "Coming soon! Stay tuned.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\nNo matching items\n\n Back to top"
   },
   {
     "objectID": "about.html",
@@ -28,10 +14,24 @@
     "text": "About NetSky AI\nNetSky AI was founded in 2024…\nContact the founders for more information.\n\n\n\n\n Back to top"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Blog",
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
     "section": "",
-    "text": "Blog\nNetSky blog coming soon! Stay tuned…\n\n\n\n\n Back to top"
+    "text": "Services\nComing soon! You can email sales in the meantime.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "Demo",
+    "section": "",
+    "text": "Demo\nVideo demo coming to this page soon! You can email sales for a demo in the meantime.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI digital assistants for every employee!",
+    "section": "",
+    "text": "Not just developers. Code-based assistance increasing output of your entire workforce, via email.\nComing soon!\n\n\n Back to top"
   }
 ]
