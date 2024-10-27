@@ -1,6 +1,6 @@
 ---
 title: "NetSky AI"
-image: logo.png
+image: dkdc.png
 about:
   template: jolla
   links:

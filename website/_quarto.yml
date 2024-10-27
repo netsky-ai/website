@@ -9,15 +9,15 @@ website:
   site-url: https://netsky.ai
   repo-url: https://github.com/netsky-ai/website
   description: "AI enabling every employee, not just developers."
-  favicon: logo.png
+  favicon: dkdc.png
 
   # options
   reader-mode: false
   back-to-top-navigation: true
   open-graph:
-    image: logo.png
+    image: dkdc.png
   twitter-card:
-    image: logo.png
+    image: dkdc.png
 
 
   # search
@@ -27,7 +27,6 @@ website:
 
   # navbar
   navbar:
-    background: "#c77218"
     left:
       - text: "about"
         href: about.qmd
@@ -46,5 +45,5 @@ website:
 # theme
 format:
   html:
-    theme: solar
+    theme: superhero
     toc: true
