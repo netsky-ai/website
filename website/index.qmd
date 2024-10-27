@@ -5,7 +5,7 @@ about:
   template: jolla
   links:
     - icon: github
-      text: github
+      text: GitHub
       href: https://github.com/netsky-ai
 ---
 
