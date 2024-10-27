@@ -1,0 +1,5 @@
+.env
+.venv
+
+# website
+_output

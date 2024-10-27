@@ -1,0 +1,14 @@
+---
+title: "NetSky AI"
+image: logo.png
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: github
+      href: https://github.com/netsky-ai
+---
+
+***AI enabling every employee, not just developers.***
+
+Coming soon!

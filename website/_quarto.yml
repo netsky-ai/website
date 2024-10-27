@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _output
+
+# website
+website:
+  # basics
+  title: "NetSky AI"
+  description: "AI enabling ***every*** employee, not just developers."
+  favicon: logo.png
+  search: false
+
+  # options
+  reader-mode: false
+  twitter-card: true
+  back-to-top-navigation: true
+  repo-url: https://github.com/netsky-ai/website
+
+  # footer
+  page-footer:
+    border: false
+    center: "NetSky AI"
+    right:
+      - icon: github
+        href: https://github.com/netsky-ai
+
+# theme
+format:
+  html:
+    theme: slate
+    toc: true
