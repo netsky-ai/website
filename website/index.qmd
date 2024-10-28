@@ -1,6 +1,6 @@
 ---
 title: "AI digital assistants for every employee!"
-image: logo.png
+image: purplelogo.png
 about:
   template: jolla
   links:

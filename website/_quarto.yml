@@ -9,15 +9,15 @@ website:
   site-url: https://netsky.ai
   repo-url: https://github.com/netsky-ai/website
   description: "AI enabling every employee, not just developers."
-  favicon: logo.png
+  favicon: purplelogo.png
 
   # options
   reader-mode: false
   back-to-top-navigation: true
   open-graph:
-    image: logo.png
+    image: purplelogo.png
   twitter-card:
-    image: logo.png
+    image: purplelogo.png
 
 
   # search
@@ -28,7 +28,8 @@ website:
   # navbar
   navbar:
     logo: logo.png
-    background: "#f17f16"
+    # background: "#f17f16" - orange
+    background: "#d08ae3"
     left:
       - text: "Demo"
         href: demo.qmd
