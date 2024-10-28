@@ -27,7 +27,7 @@ website:
 
   # navbar
   navbar:
-    logo: logo.png
+    logo: purplelogo.png
     # background: "#f17f16" - orange
     background: "#d08ae3"
     left:
