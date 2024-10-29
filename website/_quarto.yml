@@ -36,7 +36,7 @@ website:
       - text: "Services"
         href: services.qmd
     right:
-      - text: "About"
+      - text: "About us"
         href: about.qmd
       - text: "Blog"
         href: posts.qmd
@@ -49,7 +49,7 @@ website:
     # foreground: "#b6b6b6"
     right:
       - icon: github
-        href: https://github.com/netsky-ai
+        href: https://github.com/netsky-ai/website
 
 # theme
 format:

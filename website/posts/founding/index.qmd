@@ -32,7 +32,7 @@ NetSky AI is specifically crafted for non-technical users looking to get more fr
 
 As we launch, NetSky AI is committed to ongoing development that incorporates user feedback and expands on these core features, continually refining our approach to serve your productivity needs.
 
-## What’s Next?
+## What’s next?
 
 At NetSky, we’re not only developing a smarter email assistant but building a partner in productivity. Join us on this journey as we unlock new AI-powered capabilities that empower every user to manage their time, communications, and tasks more efficiently.
 

@@ -3,7 +3,7 @@ title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
-  image-placeholder: logo.png
+  image-placeholder: purplelogo.png
   type: default
   categories: true
   sort-ui: true
