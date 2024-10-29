@@ -10,5 +10,3 @@ Code for https://netsky.ai. Public to use GitHub Pages for free hosting.
 ```bash
 just preview
 ```
-
-
