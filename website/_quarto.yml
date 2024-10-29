@@ -47,6 +47,11 @@ website:
     center: "NetSky AI"
     # background: "#b6b6b6"
     # foreground: "#b6b6b6"
+    left:
+      - text: "Privacy Policy"
+        href: PrivPolicy.html
+      - text: "Terms of Service"
+        href: TOS.qmd
     right:
       - icon: github
         href: https://github.com/netsky-ai/website
