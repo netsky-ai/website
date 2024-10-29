@@ -11,7 +11,7 @@ about:
       text: Services
       href: services.qmd
     - icon: file-person
-      text: About
+      text: About us
       href: about.qmd
     - icon: substack
       text: Blog
