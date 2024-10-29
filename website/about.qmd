@@ -22,6 +22,8 @@ NetSky AI brings powerful automation into your inbox. Our features empower users
 
 Cody and Dylan bring complementary backgrounds and a passion for pushing the boundaries of technology. Dylan spent the last few years at Amazon’s AGI division, managing compute resources and financial strategy, before deciding to pursue entrepreneurial ventures that put his ideas into action. Cody, with his technical expertise from Voltron Data, dbt Labs, and Microsoft's Azure AI organization, has been at the forefront of creating accessible AI tools for data professionals. Together, they aim to make the best of AI accessible to everyone, right from your inbox.
 
+Find [Dylan](https://www.linkedin.com/in/dylan-jones-710370118/) or [Cody](https://www.linkedin.com/in/codydkdc/) on LinkedIn
+
 ## Our commitment
 
 We’re committed to evolving NetSky AI based on real feedback from users. This is just the beginning—we’re constantly working on new ways to enhance productivity and make AI an indispensable ally in your daily life.

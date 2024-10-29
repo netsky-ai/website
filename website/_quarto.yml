@@ -44,7 +44,7 @@ website:
   # footer
   page-footer:
     border: false
-    center: "NetSky, an AI Company"
+    center: "NetSky AI"
     # background: "#b6b6b6"
     # foreground: "#b6b6b6"
     right:
