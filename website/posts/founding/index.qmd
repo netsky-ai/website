@@ -2,11 +2,39 @@
 title: "Launching NetSky AI"
 author: "Cody Peterson & Dylan Jones"
 date: "2024-10-01"
-draft: true
 categories:
     - company
 ---
 
-***Productive AI for many.***
+<center> <h1> **Introducing NetSky AI: Your All-in-One AI Email Assistant for Everyday Productivity** </h1> </center>
 
-"AI"...
+Today marks the launch of NetSky AI, a groundbreaking tool designed to transform email for non-technical users, putting the power of AI into your inbox to handle routine tasks with ease and precision. Whether it’s parsing spreadsheet data, coordinating calendar schedules across multiple users, or sending automated daily updates, NetSky AI offers an intuitive, hands-free approach to managing essential daily workflows or expeditiously handling one-off tasks you wish you could pass to an assistant.
+
+We've all heard that AI will democratize the power of code for a new generation of workers, but with NetSky, the email inbox that you use every day becomes a development environment. Even your grandma can execute code to solve problems at work.
+
+## Why NetSky AI?
+
+More than anything, NetSky is your boss's personal assistant, at less than a fraction of the cost. 
+
+	•	Trying to find a meeting slot that works across 10 busy people's schedules? NetSky can get permission to shuffle the entire team's schedules to best align to their highest priority tasks.
+    •	Not sure what you should be doing? NetSky can read your emails (locally on your computer) to remind you of everything that you should be doing, and give some helpful steps to accomplish them!
+    •	Need a one-off report explaining what happened in your competition's earnings call yesterday? That took your analyst all day, but NetSky can have that to you in 5 minutes. 
+
+As a manager, why pay for one personal assistant when your entire team can have one for even less money?
+
+NetSky AI is specifically crafted for non-technical users looking to get more from their email, without learning complex software. By embedding AI into day-to-day processes, NetSky helps users unlock efficiency in managing all sorts of tasks. Here’s what makes NetSky AI different:
+
+	•	Spreadsheet Parsing: Simply attach a spreadsheet, and NetSky AI will parse, analyze, and summarize data directly in your inbox, eliminating manual data handling. 
+	•	User Email Context: NetSky builds a database of your unique work, meaning that it will give you answers that are specified for your needs without endless ChatGPT prompting. Better yet, this is all stored on your own computer, so there are no concerns about privacy! 
+    •	Automated Scheduling and Calendar Coordination: When requested, NetSky can even negotiate across users, ensuring meetings are scheduled effortlessly, and your entire organization's context is considered for optimal business outcomes.
+	•	Daily Updates Delivered to Your Inbox: Configure NetSky to send end-of-day summaries or project status updates, keeping teams aligned without additional work. That daily newsletter your intern wrote is now 100% accurate and timely thanks to the consistency of code.
+    •	Code Execution for Non-Programmers: Need to know what every website in the world is saying about your company? NetSky can execute a sentiment analysis. Tooling that was previously reserved for the tech savvy is now available to anyone that can write an email.
+
+As we launch, NetSky AI is committed to ongoing development that incorporates user feedback and expands on these core features, continually refining our approach to serve your productivity needs.
+
+## What’s Next?
+
+At NetSky, we’re not only developing a smarter email assistant but building a partner in productivity. Join us on this journey as we unlock new AI-powered capabilities that empower every user to manage their time, communications, and tasks more efficiently.
+
+Welcome to the future of email with NetSky AI. We’re excited to share it with you!
+
