@@ -44,10 +44,9 @@ website:
   # footer
   page-footer:
     border: false
-    center: "NetSky"
-    # background-color: "#b6b6b6"
-    background: "#b6b6b6"
-    foreground: "#b6b6b6"
+    center: "NetSky, an AI Company"
+    # background: "#b6b6b6"
+    # foreground: "#b6b6b6"
     right:
       - icon: github
         href: https://github.com/netsky-ai
@@ -56,5 +55,5 @@ website:
 format:
   html:
     theme: pulse
-    backgroundcolor: "#b6b6b6"
+    # backgroundcolor: "#b6b6b6"
     toc: true

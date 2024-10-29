@@ -1,7 +1,7 @@
 ---
 title: "Launching NetSky AI"
 author: "Cody Peterson & Dylan Jones"
-date: "2024-10-01"
+date: "2024-10-28"
 categories:
     - company
 ---
