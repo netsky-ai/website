@@ -18,6 +18,8 @@ about:
       href: posts.qmd
 ---
 
-***Not just developers. Code-based assistance increasing productivity of your entire workforce, via email.***
+***Not just developers. The productivity of coding with the simplicity of sending an email.***
 
-Coming soon!
+::: {.callout-warning title="Website under construction!"}
+Product launch coming soon! You can [read about our company's launch](posts/founding/index.qmd) in the meantime.
+:::
