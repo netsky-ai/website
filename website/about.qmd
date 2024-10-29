@@ -1,24 +1,24 @@
 # About NetSky AI
 
-##Our Mission
+## Our Mission
 NetSky AI was founded in October of 2024 with a singular vision: to make email an effortlessly productive experience for everyone. In a world overflowing with information and tasks, we believe your inbox should help—not hinder—your workflow. With NetSky AI, we’re building an intuitive AI assistant that tackles the mundane, repetitive tasks, freeing up your time for what truly matters.
 
-##Our Story
+## Our Story
 NetSky AI began as a shared vision between two Rice University classmates, Cody and Dylan, who reconnected years after their undergraduate days. By 2023, both were deeply involved in the world of large language models (LLMs). Dylan was leading compute resources and financial strategy for Amazon’s AGI division, while Cody was at Ibis, creating tools to help users harness the power of LLMs with their data, and Microsoft's Azure AI division, empowering developers to reach the future of AI through new APIs.
 
 As they exchanged stories from their careers, Cody and Dylan recognized a gap in how AI was applied to everyday productivity tools, especially for non-technical users. Many advanced AI capabilities remained locked behind complex interfaces, out of reach for people who could benefit the most from them. Fueled by this insight and their shared entrepreneurial spark, Cody and Dylan created NetSky AI—a straightforward, powerful AI email assistant that enables users to get the most out of their inbox with minimal effort.
 
-##What We Do
+## What We Do
 NetSky AI brings powerful automation into your inbox. Our features empower users to:
 
 	•	Parse and Summarize Data: Attach a spreadsheet, and NetSky AI will process and summarize the information directly in your email.
 	•	Negotiate and Schedule Meetings: Our AI coordinates calendars across users, streamlining meeting setups and freeing you from back-and-forth emails.
 	•	Automate Updates: Configure NetSky AI to deliver daily or project-specific updates, keeping teams aligned effortlessly.
 
-##Meet the Founders
+## Meet the Founders
 Cody and Dylan bring complementary backgrounds and a passion for pushing the boundaries of technology. Dylan spent the last few years at Amazon’s AGI division, managing compute resources and financial strategy, before deciding to pursue entrepreneurial ventures that put his ideas into action. Cody, with his technical expertise from the Ibis, has been at the forefront of creating accessible AI tools for data professionals. Together, they aim to make the best of AI accessible to everyone, right from your inbox.
 
-##Our Commitment
+## Our Commitment
 We’re committed to evolving NetSky AI based on real feedback from users. This is just the beginning—we’re constantly working on new ways to enhance productivity and make AI an indispensable ally in your daily life.
 
 Join us as we redefine what your email can do. Welcome to the future of productivity with NetSky AI.
