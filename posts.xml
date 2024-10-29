@@ -10,7 +10,7 @@
 <atom:link href="https://netsky.ai/posts.xml" rel="self" type="application/rss+xml"/>
 <description>AI enabling every employee, not just developers.</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 01 Oct 2024 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Oct 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Launching NetSky AI</title>
   <dc:creator>Cody Peterson &amp; Dylan Jones</dc:creator>
@@ -53,7 +53,7 @@
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
   <category>company</category>
   <guid>https://netsky.ai/posts/founding/</guid>
-  <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+  <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
