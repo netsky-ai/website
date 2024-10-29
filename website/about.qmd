@@ -6,7 +6,7 @@ NetSky AI was founded in October of 2024 with a singular vision: to make email a
 
 ## Our story
 
-NetSky AI began as a shared vision between two Rice University classmates, Cody and Dylan, who reconnected years after their undergraduate days. By 2023, both were deeply involved in the world of large language models (LLMs). Dylan was leading compute resources and financial strategy for Amazon’s AGI division, while Cody was at Ibis, creating tools to help users harness the power of LLMs with their data, and Microsoft's Azure AI division, empowering developers to reach the future of AI through new APIs.
+NetSky AI began as a shared vision between two Rice University classmates, Cody and Dylan, who reconnected years after their undergraduate days. By 2023, both were deeply involved in the world of large language models (LLMs). Dylan was leading compute resources and financial strategy for Amazon’s AGI division, while Cody was at Voltron Data, creating tools to help users harness the power of LLMs with their data, and previously in Microsoft's Azure AI division, empowering developers to reach the future of AI through their MLOps journey.
 
 As they exchanged stories from their careers, Cody and Dylan recognized a gap in how AI was applied to everyday productivity tools, especially for non-technical users. Many advanced AI capabilities remained locked behind complex interfaces, out of reach for people who could benefit the most from them. Fueled by this insight and their shared entrepreneurial spark, Cody and Dylan created NetSky AI—a straightforward, powerful AI email assistant that enables users to get the most out of their inbox with minimal effort.
 
@@ -20,7 +20,7 @@ NetSky AI brings powerful automation into your inbox. Our features empower users
 
 ## Meet the founders
 
-Cody and Dylan bring complementary backgrounds and a passion for pushing the boundaries of technology. Dylan spent the last few years at Amazon’s AGI division, managing compute resources and financial strategy, before deciding to pursue entrepreneurial ventures that put his ideas into action. Cody, with his technical expertise from the Ibis, has been at the forefront of creating accessible AI tools for data professionals. Together, they aim to make the best of AI accessible to everyone, right from your inbox.
+Cody and Dylan bring complementary backgrounds and a passion for pushing the boundaries of technology. Dylan spent the last few years at Amazon’s AGI division, managing compute resources and financial strategy, before deciding to pursue entrepreneurial ventures that put his ideas into action. Cody, with his technical expertise from Voltron Data, dbt Labs, and Microsoft's Azure AI organization, has been at the forefront of creating accessible AI tools for data professionals. Together, they aim to make the best of AI accessible to everyone, right from your inbox.
 
 ## Our commitment
 
