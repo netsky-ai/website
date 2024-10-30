@@ -23,7 +23,7 @@
 
 /* Add this to your existing styles.css */
 .navbar-logo {
-    max-height: 70px !important; /* Default is usually around 35px */
+    max-height: 80px !important; /* Default is usually around 35px */
 }
 
 /* Dark mode styles */
@@ -66,5 +66,108 @@ h1, h2, h3, h4, h5, h6 {
 .dropdown-menu .dropdown-item:hover {
     background-color: #d08ae3 !important;
     color: #ffffff !important;
+}
+
+/* Add navbar height adjustment */
+.navbar {
+    padding-top: 0.1rem !important;    /* Default is usually 0.5rem */
+    padding-bottom: 0.1rem !important; /* Default is usually 0.5rem */
+}
+
+/* Adjust logo padding to keep it centered */
+.navbar-logo {
+    padding: 0.0rem !important;
+}
+
+/* Style for select boxes and other form controls */
+select, 
+.form-select,
+.form-control {
+    background-color: #1a1f3c !important;
+    color: #ffffff !important;
+    border: 2px solid #d08ae3 !important;
+    border-radius: 4px !important;
+}
+
+/* Style for select boxes when focused/active */
+select:focus,
+.form-select:focus,
+.form-control:focus {
+    background-color: #2a2f4c !important;
+    color: #ffffff !important;
+    border-color: #d08ae3 !important;
+    box-shadow: 0 0 0 0.25rem rgba(208, 138, 227, 0.25) !important;
+}
+
+/* Style for the dropdown arrow */
+select,
+.form-select {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23d08ae3' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e") !important;
+}
+
+/* Style for listing page icons/buttons */
+.quarto-listing-sort .bi,
+.quarto-listing-filter .bi,
+.quarto-listing-view .bi {
+    color: #ffffff !important;
+    background-color: #1a1f3c !important;
+}
+
+/* Style for the button containers */
+.quarto-listing-sort,
+.quarto-listing-filter,
+.quarto-listing-view {
+    background-color: #1a1f3c !important;
+    border: none !important;
+}
+
+/* Style for the button groups */
+.btn-group > .btn {
+    background-color: #1a1f3c !important;
+    border: 2px solid #d08ae3 !important;
+    color: #ffffff !important;
+}
+
+/* Hover state for buttons */
+.btn-group > .btn:hover {
+    background-color: #d08ae3 !important;
+    color: #ffffff !important;
+}
+
+/* Active state for buttons */
+.btn-group > .btn.active {
+    background-color: #d08ae3 !important;
+    color: #ffffff !important;
+}
+
+/* Style for blog listing text */
+.quarto-listing-default {
+    color: #ffffff !important;
+}
+
+/* Make only titles purple links */
+.listing-title > a {
+    color: #d08ae3 !important;
+}
+
+.listing-title > a:hover {
+    color: #b670c9 !important;
+    text-decoration: underline;
+}
+
+/* Ensure description and other text is white */
+.listing-description,
+.listing-subtitle,
+.listing-category,
+.listing-date {
+    color: #ffffff !important;
+    text-decoration: none !important;
+}
+
+/* Remove link styling from description */
+.listing-description a {
+    color: #ffffff !important;
+    text-decoration: none !important;
+    pointer-events: none !important;
 }
 
