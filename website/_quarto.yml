@@ -5,7 +5,7 @@ project:
 # website
 website:
   # basics
-  # title: "NetSky"
+  title: "NetSky"
   site-url: https://netsky.ai
   repo-url: https://github.com/netsky-ai/website
   description: "AI enabling every employee, not just developers."
@@ -28,6 +28,7 @@ website:
   # navbar
   navbar:
     logo: purplelogo.png
+    title: false
     # background: "#f17f16" - orange
     background: "#d08ae3"
     left:
