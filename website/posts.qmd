@@ -10,5 +10,3 @@ listing:
   filter-ui: true
   feed: true
 ---
-
-Coming soon! Stay tuned.

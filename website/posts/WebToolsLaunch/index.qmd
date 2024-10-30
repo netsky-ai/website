@@ -1,0 +1,18 @@
+---
+title: "NetSky Launches Webtools"
+author: "Dylan Jones"
+date: "2024-10-30"
+categories:
+    - News
+    - Launch
+---
+
+<center> <h1> A one stop shop for all of your webtool needs </h1> </center>
+
+Today, NetSky launches it's webtool services. 
+
+Whether you need an image upscaled, a transcript of a meeting, or to download a local version of a public video, anyone from the internet can now find and use NetSky's tools, even without a subscription.
+
+While there are other websites that provide one of these tools at a time, these sites are riddled with advertisements and malware, scaring many users. NetSky instead provides a one stop shop for all of these tools, with a focus on the customer experience, rather than milking you for ad dollars.
+
+There's no catch, we'll process your data for you, and all we get in exchange is users on our website.

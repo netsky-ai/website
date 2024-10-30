@@ -5,7 +5,7 @@ project:
 # website
 website:
   # basics
-  title: "NetSky"
+  # title: "NetSky"
   site-url: https://netsky.ai
   repo-url: https://github.com/netsky-ai/website
   description: "AI enabling every employee, not just developers."
@@ -35,6 +35,14 @@ website:
         href: demo.qmd
       - text: "Services"
         href: services.qmd
+      - text: "Web Tools"
+        menu: 
+        - text: Image Resizer
+          href: PLACEHOLDER.qmd
+        - text: Video to MP3
+          href: PLACEHOLDER.qmd
+        - text: Audio Transcriber
+          href: PLACEHOLDER.qmd  
     right:
       - text: "About us"
         href: about.qmd
@@ -59,6 +67,8 @@ website:
 # theme
 format:
   html:
-    theme: pulse
-    # backgroundcolor: "#b6b6b6"
-    toc: true
+    theme:
+      - pulse
+      - custom.scss
+    # Remove or comment out the backgroundcolor line if it exists
+    css: styles.css

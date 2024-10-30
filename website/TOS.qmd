@@ -1,6 +1,4 @@
-# TOS
-
-Creating a Terms of Service (ToS) for NetSky, LLC requires certain legal disclaimers, especially considering NetSky AI’s focus on AI email integration. I’ll provide a general template below. However, it would be wise to consult a legal professional to tailor this template to your specific operations, ensuring all necessary protections for both you and your users.
+# Terms of Service
 
 NetSky, LLC - Terms of Service
 

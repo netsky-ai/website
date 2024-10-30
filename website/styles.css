@@ -10,3 +10,61 @@
 .footer .bi {
     color: #d08ae3 !important;
 }
+
+.navbar-logo {
+    height: 500px;  
+    width: auto;
+}
+
+.navbar-background {
+
+    background:"#d08ae3"
+}
+
+/* Add this to your existing styles.css */
+.navbar-logo {
+    max-height: 70px !important; /* Default is usually around 35px */
+}
+
+/* Dark mode styles */
+body {
+    background-color: #1a1f3c !important;
+    color: #ffffff !important;
+}
+
+/* Ensure links and text remain visible on dark background */
+.content a {
+    color: #d08ae3 !important; /* Using your purple accent color for links */
+}
+
+/* Ensure headings are visible */
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+}
+
+/* Add navbar text size adjustment */
+.navbar-nav .nav-link {
+    font-size: 1.25em !important; /* This makes the text 25% larger */
+}
+
+/* Make dropdown menu text match the size */
+.dropdown-menu .dropdown-item {
+    font-size: 1.25em !important;
+}
+
+/* Add these styles for dropdown menus */
+.dropdown-menu {
+    background-color: #1a1f3c !important; /* Match the body background */
+    border: 3px solid #d08ae3 !important; /* Add a subtle border using your purple */
+}
+
+.dropdown-menu .dropdown-item {
+    color: #ffffff !important;
+}
+
+/* Style for hover state */
+.dropdown-menu .dropdown-item:hover {
+    background-color: #d08ae3 !important;
+    color: #ffffff !important;
+}
+
