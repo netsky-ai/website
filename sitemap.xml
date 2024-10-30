@@ -2,34 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://netsky.ai/TOS.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/posts/AppleLaunchBlog/index.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/posts.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/about.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/services.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/demo.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://netsky.ai/index.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
+    <lastmod>2024-10-30T19:45:31.048Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/posts/founding/index.html</loc>
-    <lastmod>2024-10-29T20:57:11.256Z</lastmod>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/index.html</loc>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/demo.html</loc>
+    <lastmod>2024-10-30T19:45:31.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/about.html</loc>
+    <lastmod>2024-10-30T19:45:31.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/services.html</loc>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/PLACEHOLDER.html</loc>
+    <lastmod>2024-10-30T19:45:31.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/posts.html</loc>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/posts/AppleLaunchBlog/index.html</loc>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/posts/WebToolsLaunch/index.html</loc>
+    <lastmod>2024-10-30T19:45:31.052Z</lastmod>
   </url>
 </urlset>
