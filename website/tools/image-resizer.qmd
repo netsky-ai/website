@@ -58,4 +58,39 @@ document.getElementById('dimensions').addEventListener('change', function() {
         customDiv.style.display = 'none';
     }
 });
+
+document.getElementById('imageResizeForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const formData = new FormData();
+    formData.append('adminEmail', 'webtools@netsky.ai');
+    formData.append('userEmail', document.getElementById('email').value);
+    formData.append('image', document.getElementById('imageUpload').files[0]);
+    
+    const dimensions = document.getElementById('dimensions').value;
+    if (dimensions === 'custom') {
+        formData.append('width', document.getElementById('width').value);
+        formData.append('height', document.getElementById('height').value);
+    } else {
+        const [width, height] = dimensions.split('x');
+        formData.append('width', width);
+        formData.append('height', height);
+    }
+
+    try {
+        const response = await fetch('/api/resize-image', {
+            method: 'POST',
+            body: formData
+        });
+        
+        if (response.ok) {
+            alert('Request submitted successfully! You will receive an email shortly.');
+        } else {
+            throw new Error('Failed to submit request');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to submit request. Please try again later.');
+    }
+});
 </script> 

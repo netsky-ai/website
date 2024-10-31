@@ -34,3 +34,31 @@ title: "Video to MP3 Converter"
 :::
 :::
 :::
+
+<script>
+document.getElementById('videoConvertForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const formData = new FormData();
+    formData.append('adminEmail', 'webtools@netsky.ai');
+    formData.append('userEmail', document.getElementById('email').value);
+    formData.append('video', document.getElementById('videoUpload').files[0]);
+    formData.append('quality', document.getElementById('quality').value);
+
+    try {
+        const response = await fetch('/api/convert-video', {
+            method: 'POST',
+            body: formData
+        });
+        
+        if (response.ok) {
+            alert('Request submitted successfully! You will receive an email shortly.');
+        } else {
+            throw new Error('Failed to submit request');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to submit request. Please try again later.');
+    }
+});
+</script>

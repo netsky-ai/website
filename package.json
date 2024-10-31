@@ -1,0 +1,18 @@
+{
+  "name": "netsky-tools-server",
+  "version": "1.0.0",
+  "description": "Server for NetSky web tools",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+} 

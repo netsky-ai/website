@@ -35,3 +35,31 @@ title: "Audio Transcriber"
 :::
 :::
 :::
+
+<script>
+document.getElementById('audioTranscribeForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const formData = new FormData();
+    formData.append('adminEmail', 'webtools@netsky.ai');
+    formData.append('userEmail', document.getElementById('email').value);
+    formData.append('audio', document.getElementById('audioUpload').files[0]);
+    formData.append('language', document.getElementById('language').value);
+
+    try {
+        const response = await fetch('/api/transcribe-audio', {
+            method: 'POST',
+            body: formData
+        });
+        
+        if (response.ok) {
+            alert('Request submitted successfully! You will receive an email shortly.');
+        } else {
+            throw new Error('Failed to submit request');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to submit request. Please try again later.');
+    }
+});
+</script>

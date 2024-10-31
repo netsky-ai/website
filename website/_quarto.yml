@@ -39,11 +39,14 @@ website:
       - text: "Web Tools"
         menu: 
           - text: Image Resizer
-            href: tools/image-resizer.qmd
+            # href: tools/image-resizer.qmd
+            href: PLACEHOLDER.qmd
           - text: Video to MP3
-            href: tools/video-converter.qmd
+            # href: tools/video-converter.qmd
+            href: PLACEHOLDER.qmd
           - text: Audio Transcriber
-            href: tools/audio-transcriber.qmd  
+            # href: tools/audio-transcriber.qmd  
+            href: PLACEHOLDER.qmd
     right:
       - text: "About us"
         href: about.qmd
