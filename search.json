@@ -42,6 +42,27 @@
     "text": "Demo\nVideo demo coming to this page soon! You can email sales for a demo in the meantime.\n\n\n\n\n Back to top"
   },
   {
+    "objectID": "tools/audio-transcriber.html",
+    "href": "tools/audio-transcriber.html",
+    "title": "Audio Transcriber",
+    "section": "",
+    "text": "Audio Transcriber\n\n\nEmail address \n\nWe’ll send the transcription to this address.\n\n\n\nUpload Audio \n\nSupported formats: MP3, WAV, M4A, AAC\n\n\n\nAudio Language  Choose language… English Spanish French German Italian \n\n\nTranscribe Audio\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "tools/video-converter.html",
+    "href": "tools/video-converter.html",
+    "title": "Video to MP3 Converter",
+    "section": "",
+    "text": "Video to MP3 Converter\n\n\nEmail address \n\nWe’ll send the converted MP3 to this address.\n\n\n\nUpload Video \n\nSupported formats: MP4, MOV, AVI, WMV\n\n\n\nAudio Quality  Choose audio quality… 320 kbps (High) 256 kbps (Good) 192 kbps (Medium) 128 kbps (Low) \n\n\nConvert to MP3\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "Services\nComing soon! You can email sales in the meantime.\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About us",
@@ -84,11 +105,11 @@
     "text": "We’re committed to evolving NetSky AI based on real feedback from users. This is just the beginning—we’re constantly working on new ways to enhance productivity and make AI an indispensable ally in your daily life.\nJoin us as we redefine what your email can do. Welcome to the future of productivity with NetSky AI.\nContact the founders for more information."
   },
   {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Services",
+    "objectID": "tools/image-resizer.html",
+    "href": "tools/image-resizer.html",
+    "title": "Image Resizer",
     "section": "",
-    "text": "Services\nComing soon! You can email sales in the meantime.\n\n\n\n\n Back to top"
+    "text": "Image Resizer\n\n\nEmail address \n\nWe’ll send the resized image to this address.\n\n\n\nUpload Image \n\nSupported formats: JPG, PNG, WebP, GIF\n\n\n\nTarget Size  Choose target dimensions… 1920x1080 (Full HD) 1280x720 (HD) 800x600 640x480 Custom dimensions \n\n\n\n\nWidth (px) \n\n\nHeight (px) \n\n\n\n\nResize Image\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "PLACEHOLDER.html",

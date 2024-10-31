@@ -2,42 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://netsky.ai/TOS.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.475Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/posts/founding/index.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/index.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/demo.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.475Z</lastmod>
   </url>
   <url>
-    <loc>https://netsky.ai/about.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <loc>https://netsky.ai/tools/audio-transcriber.html</loc>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/tools/video-converter.html</loc>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/services.html</loc>
-    <lastmod>2024-10-30T20:04:57.052Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/about.html</loc>
+    <lastmod>2024-10-31T21:13:48.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://netsky.ai/tools/image-resizer.html</loc>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/PLACEHOLDER.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.475Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/posts.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/posts/AppleLaunchBlog/index.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
   <url>
     <loc>https://netsky.ai/posts/WebToolsLaunch/index.html</loc>
-    <lastmod>2024-10-30T20:04:57.048Z</lastmod>
+    <lastmod>2024-10-31T21:13:48.479Z</lastmod>
   </url>
 </urlset>
