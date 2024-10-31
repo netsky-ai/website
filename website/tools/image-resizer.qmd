@@ -1,0 +1,61 @@
+---
+title: "Image Resizer"
+---
+
+::: {.container}
+::: {.tool-container}
+# Image Resizer {.mb-4}
+
+::: {#imageResizeForm .tool-form}
+::: {.mb-3}
+<label for="email" class="form-label">Email address</label>
+<input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+<div class="form-text">We'll send the resized image to this address.</div>
+:::
+
+::: {.mb-3}
+<label for="imageUpload" class="form-label">Upload Image</label>
+<input type="file" class="form-control" id="imageUpload" accept="image/*" required>
+<div class="form-text">Supported formats: JPG, PNG, WebP, GIF</div>
+:::
+
+::: {.mb-3}
+<label for="dimensions" class="form-label">Target Size</label>
+<select class="form-select" id="dimensions" required>
+    <option value="">Choose target dimensions...</option>
+    <option value="1920x1080">1920x1080 (Full HD)</option>
+    <option value="1280x720">1280x720 (HD)</option>
+    <option value="800x600">800x600</option>
+    <option value="640x480">640x480</option>
+    <option value="custom">Custom dimensions</option>
+</select>
+:::
+
+::: {#customDimensions .mb-3 style="display: none;"}
+::: {.row}
+::: {.col}
+<label for="width" class="form-label">Width (px)</label>
+<input type="number" class="form-control" id="width" min="1" max="4096">
+:::
+::: {.col}
+<label for="height" class="form-label">Height (px)</label>
+<input type="number" class="form-control" id="height" min="1" max="4096">
+:::
+:::
+:::
+
+<button type="submit" class="btn btn-primary">Resize Image</button>
+:::
+:::
+:::
+
+<script>
+document.getElementById('dimensions').addEventListener('change', function() {
+    const customDiv = document.getElementById('customDimensions');
+    if (this.value === 'custom') {
+        customDiv.style.display = 'block';
+    } else {
+        customDiv.style.display = 'none';
+    }
+});
+</script> 

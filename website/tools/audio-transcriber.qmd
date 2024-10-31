@@ -1,0 +1,37 @@
+---
+title: "Audio Transcriber"
+---
+
+::: {.container}
+::: {.tool-container}
+# Audio Transcriber {.mb-4}
+
+::: {#audioTranscribeForm .tool-form}
+::: {.mb-3}
+<label for="email" class="form-label">Email address</label>
+<input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+<div class="form-text">We'll send the transcription to this address.</div>
+:::
+
+::: {.mb-3}
+<label for="audioUpload" class="form-label">Upload Audio</label>
+<input type="file" class="form-control" id="audioUpload" accept="audio/*" required>
+<div class="form-text">Supported formats: MP3, WAV, M4A, AAC</div>
+:::
+
+::: {.mb-3}
+<label for="language" class="form-label">Audio Language</label>
+<select class="form-select" id="language" required>
+    <option value="">Choose language...</option>
+    <option value="en">English</option>
+    <option value="es">Spanish</option>
+    <option value="fr">French</option>
+    <option value="de">German</option>
+    <option value="it">Italian</option>
+</select>
+:::
+
+<button type="submit" class="btn btn-primary">Transcribe Audio</button>
+:::
+:::
+:::

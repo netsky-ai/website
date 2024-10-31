@@ -1,0 +1,36 @@
+---
+title: "Video to MP3 Converter"
+---
+
+::: {.container}
+::: {.tool-container}
+# Video to MP3 Converter {.mb-4}
+
+::: {#videoConvertForm .tool-form}
+::: {.mb-3}
+<label for="email" class="form-label">Email address</label>
+<input type="email" class="form-control" id="email" placeholder="name@example.com" required>
+<div class="form-text">We'll send the converted MP3 to this address.</div>
+:::
+
+::: {.mb-3}
+<label for="videoUpload" class="form-label">Upload Video</label>
+<input type="file" class="form-control" id="videoUpload" accept="video/*" required>
+<div class="form-text">Supported formats: MP4, MOV, AVI, WMV</div>
+:::
+
+::: {.mb-3}
+<label for="quality" class="form-label">Audio Quality</label>
+<select class="form-select" id="quality" required>
+    <option value="">Choose audio quality...</option>
+    <option value="320">320 kbps (High)</option>
+    <option value="256">256 kbps (Good)</option>
+    <option value="192">192 kbps (Medium)</option>
+    <option value="128">128 kbps (Low)</option>
+</select>
+:::
+
+<button type="submit" class="btn btn-primary">Convert to MP3</button>
+:::
+:::
+:::

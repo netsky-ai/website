@@ -38,12 +38,12 @@ website:
         href: services.qmd
       - text: "Web Tools"
         menu: 
-        - text: Image Resizer
-          href: PLACEHOLDER.qmd
-        - text: Video to MP3
-          href: PLACEHOLDER.qmd
-        - text: Audio Transcriber
-          href: PLACEHOLDER.qmd  
+          - text: Image Resizer
+            href: tools/image-resizer.qmd
+          - text: Video to MP3
+            href: tools/video-converter.qmd
+          - text: Audio Transcriber
+            href: tools/audio-transcriber.qmd  
     right:
       - text: "About us"
         href: about.qmd
@@ -69,7 +69,7 @@ website:
 format:
   html:
     theme:
-      - pulse
+      - bootstrap
       - custom.scss
     # Remove or comment out the backgroundcolor line if it exists
     css: styles.css
