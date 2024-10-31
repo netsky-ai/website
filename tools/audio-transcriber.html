@@ -108,15 +108,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-web-tools">    
         <li>
-    <a class="dropdown-item" href="../tools/image-resizer.html">
+    <a class="dropdown-item" href="../PLACEHOLDER.html">
  <span class="dropdown-text">Image Resizer</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../tools/video-converter.html">
+    <a class="dropdown-item" href="../PLACEHOLDER.html">
  <span class="dropdown-text">Video to MP3</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../tools/audio-transcriber.html">
+    <a class="dropdown-item" href="../PLACEHOLDER.html">
  <span class="dropdown-text">Audio Transcriber</span></a>
   </li>  
     </ul>
@@ -190,6 +190,33 @@ Transcribe Audio
 </div>
 </section>
 </div>
+<script>
+document.getElementById('audioTranscribeForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const formData = new FormData();
+    formData.append('adminEmail', 'webtools@netsky.ai');
+    formData.append('userEmail', document.getElementById('email').value);
+    formData.append('audio', document.getElementById('audioUpload').files[0]);
+    formData.append('language', document.getElementById('language').value);
+
+    try {
+        const response = await fetch('/api/transcribe-audio', {
+            method: 'POST',
+            body: formData
+        });
+        
+        if (response.ok) {
+            alert('Request submitted successfully! You will receive an email shortly.');
+        } else {
+            throw new Error('Failed to submit request');
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert('Failed to submit request. Please try again later.');
+    }
+});
+</script>
 
 
 
